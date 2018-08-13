@@ -5,3 +5,5 @@ hystrix:
         isolation:
           thread:
             timeoutInMilliseconds: 5000
+test:
+  config: 这是GitHub内的值
